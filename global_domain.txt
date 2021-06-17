@@ -93,3 +93,4 @@ youtube-nocookie.com
 ytimg.com
 navar.jp
 line.navar.jp
+data-hotel.net
